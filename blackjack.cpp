@@ -3,6 +3,7 @@
 #include <memory>
 #include <random>
 #include <ctime>
+#include <algorithm> // for "shuffle"
 
 using namespace std;
 
