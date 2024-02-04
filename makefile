@@ -1,2 +1,2 @@
 blackjack: blackjack.cpp
-	clang++ blackjack.cpp -o blackjack
+	clang++ -o blackjack blackjack.cpp -std=c++14
